@@ -1,0 +1,13 @@
+name = "Vanilla++"
+author = "Ygor (toastedwaffles)"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "10ac0faebce9c81083e4f9a1a927f40f19a48f572fb4a6b76400db5c4a7518c4"
+
+[versions]
+fabric = "0.14.17"
+minecraft = "1.19.2"

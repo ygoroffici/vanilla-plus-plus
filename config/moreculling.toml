@@ -1,0 +1,32 @@
+enableSodiumMenu = true
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 384
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 12.0
+leavesCullingMode = "STATE"
+leavesCullingAmount = 2
+includeMangroveRoots = false
+powderSnowCulling = true
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+adorn = true
+universal_ores = true
+cinderscapes = true
+bitsandchisels = true
+farmersdelight = true
+bountiful = true
+overweight_farming = true
+terrestria = true
+immersive_portals = true
+dehydration = true
+rocks = true
+arcanus = true
+puddles = true
+minecraft = true

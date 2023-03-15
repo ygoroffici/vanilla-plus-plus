@@ -1,0 +1,13 @@
+name = "Dehydration"
+filename = "dehydration-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5686f7fae8ea5e3bcc5a541275382c90e6b6b9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4216059
+project-id = 410830
