@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "4250d6b106ac2f00608e1401e28b5c6e929c7254df1dcbee5fff98df69ff83db"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "307414275390a02051b42622dbfcd04f40eda0cdd885b64f5a9180bb852bca5a"
 
