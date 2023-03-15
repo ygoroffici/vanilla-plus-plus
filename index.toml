@@ -412,6 +412,11 @@ hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
 
 [[files]]
+file = "mods/configured-fabric.pw.toml"
+hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
