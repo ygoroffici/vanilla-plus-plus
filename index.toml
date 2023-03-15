@@ -314,7 +314,7 @@ hash = "7b7e6c6f3c11bcb6babe562653fd2ad544d115c4141edf889d4feda73f9a2564"
 
 [[files]]
 file = "config/zoomify.json"
-hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+hash = "99b1c8f319eb5382f07ef994e23c37d4fbbfaacf3d94e941c19258c3d4f3a4f9"
 
 [[files]]
 file = "mods/adorn.pw.toml"
