@@ -66,7 +66,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "3f584167a2acf739e8ff36b5f5192b62743d83d74ac3ec4280e19c245e047257"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -87,6 +87,18 @@ hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 [[files]]
 file = "config/dawn/features.json"
 hash = "467b0c5ba2eeacd383157b6f6a457e27a280e25b8cfc2d88c5deaba6ae4e63cb"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "9c134fbfff7ddf17e85a98965d33d840f7083c0190d73e4b546e9570701e85b9"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "fec6914c582c8a850c93335157490b5ecec81fb95d1248bef516941392ba8d6b"
+
+[[files]]
+file = "config/defaultoptions/optionsof.txt"
+hash = "e91fbb1c39c0385ae2f8cfca3d0c80168973a625a03c5c17f44f27cd120a883a"
 
 [[files]]
 file = "config/dehydration.json5"
@@ -357,6 +369,11 @@ hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
+metafile = true
+
+[[files]]
 file = "mods/beautified-chat-client.pw.toml"
 hash = "53263f4c92485d67188073ea13cc35d13fb9edf0d0561ecb08922ac1ca825bfe"
 metafile = true
@@ -429,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "2319a99f388ce4a860c3012f94b553a4ee80afd08b8ca5290c40f197d2398fc2"
 metafile = true
 
 [[files]]
@@ -572,6 +594,11 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
+file = "mods/nicephore-fabric.pw.toml"
+hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
+metafile = true
+
+[[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "670a15831e2a391145a349e8ddcc112e8bafd3af07eacedda3628f705c3d83ff"
 metafile = true
@@ -612,6 +639,11 @@ hash = "4df8b62028478a17069bacdc70674a3f570deafbb5f5931a7995c6778694c7e4"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
@@ -619,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "06e8d589fbff47c4724c1c0e59b73ca1e87d65e75e7ea7c77bfee11fa3d8c7aa"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
