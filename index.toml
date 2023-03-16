@@ -469,11 +469,6 @@ hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "55a8b11931f7d3c8e7cfc6cab29aee2b6ba49a36f999c1a2cc6cd1f2506ae213"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
@@ -481,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]
@@ -514,13 +514,13 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
-file = "mods/goprone-fabric.pw.toml"
-hash = "1a1c056a53c1ae56362b10c86d96695ea5709eb9c51d6237d33b3190af9c3ffc"
+file = "mods/geophilic.pw.toml"
+hash = "15c7e112131d8ea9b726ad3782fec84fa6e5dfa4a80ec0a5001209e44eeea7a5"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "1b00a4302ee0958672cdf9278f4e735d15f14abf9ab4e9046317eb1affee446d"
+file = "mods/goprone-fabric.pw.toml"
+hash = "1a1c056a53c1ae56362b10c86d96695ea5709eb9c51d6237d33b3190af9c3ffc"
 metafile = true
 
 [[files]]
@@ -604,11 +604,6 @@ hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
 
 [[files]]
-file = "mods/nicer-skies.pw.toml"
-hash = "670a15831e2a391145a349e8ddcc112e8bafd3af07eacedda3628f705c3d83ff"
-metafile = true
-
-[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "6bed49d57e4a5dea5b7e014602018005d163ea30fdf99be6f0cc5b3853504385"
 metafile = true
@@ -649,11 +644,6 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
-file = "mods/satin-api.pw.toml"
-hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "06e8d589fbff47c4724c1c0e59b73ca1e87d65e75e7ea7c77bfee11fa3d8c7aa"
 metafile = true
@@ -666,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9d7e8e0e5d64ef2d134a7a29bc22bb261003406d330672366ef3eaac7a019045"
 metafile = true
 
 [[files]]
