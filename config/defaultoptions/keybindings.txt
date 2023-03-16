@@ -39,6 +39,8 @@ key_key.autoswitch.toggle:key.keyboard.g:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
+key_key.prone:key.keyboard.unknown:NONE
+key_key.prone.toggle:key.keyboard.z:NONE
 key_key.inmis.open_backpack:key.keyboard.b:NONE
 key_key.jade.config:key.keyboard.keypad.0:NONE
 key_key.jade.show_overlay:key.keyboard.keypad.1:NONE
@@ -53,6 +55,9 @@ key_nicephore.keybinds.screenshots.gui:key.keyboard.unknown:NONE
 key_nicephore.keybinds.gallery.gui:key.keyboard.h:NONE
 key_key.presencefootsteps.settings:key.keyboard.f10:NONE
 key_key.stepup.toggle:key.keyboard.j:NONE
+key_key.trashslot.toggle:key.keyboard.t:NONE
+key_key.trashslot.delete:key.keyboard.delete:NONE
+key_key.trashslot.deleteAll:key.keyboard.delete:NONE
 key_key.utilitybelt.quick_switch_toggle:key.keyboard.r:NONE
 key_key.utilitybelt.quick_switch_hold:key.keyboard.n:NONE
 key_key.utilitybelt.open_screen:key.keyboard.grave.accent:NONE

@@ -90,7 +90,7 @@ hash = "467b0c5ba2eeacd383157b6f6a457e27a280e25b8cfc2d88c5deaba6ae4e63cb"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "9c134fbfff7ddf17e85a98965d33d840f7083c0190d73e4b546e9570701e85b9"
+hash = "1572655bdc0893a0a9389316dfe3c843769aa49a1a03378930b3c19abe83b77a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -514,6 +514,11 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
+file = "mods/goprone-fabric.pw.toml"
+hash = "1a1c056a53c1ae56362b10c86d96695ea5709eb9c51d6237d33b3190af9c3ffc"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "1b00a4302ee0958672cdf9278f4e735d15f14abf9ab4e9046317eb1affee446d"
 metafile = true
@@ -679,6 +684,11 @@ hash = "5c15843fb95af5c160b29de253eaaf8b1c3cd91b77a7218d4f0c7b5993e3a833"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "581a2b893e0d9ad6a635a4b77c8c4ac93545be9a9ac41d15a705830ce27cb665"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
@@ -717,10 +727,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "70f58ed807d89a2f85c76925b38eeb4030b995725bd54707772a51686377ee1c"
 
 [[files]]
 file = "resourcepacks/alacrity.pw.toml"
