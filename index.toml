@@ -269,6 +269,10 @@ file = "config/rrp.properties"
 hash = "0276151e91e7041be46e4e535fecd858e95bc299186bd2b352fcceb0bf180c80"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "89cf6cdf0685cd5c52cc756bc4fcf60f8ea4fcc25414c0ae4de50c0af75a2f3c"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
