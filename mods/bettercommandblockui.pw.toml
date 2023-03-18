@@ -1,0 +1,13 @@
+name = "Better Command Block UI"
+filename = "bettercommandblockui-0.3.1-1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8iQcgjQ2/versions/bivLiGLI/bettercommandblockui-0.3.1-1.19.jar"
+hash-format = "sha1"
+hash = "8af42b06f229f36044a523e42d6a86443665437f"
+
+[update]
+[update.modrinth]
+mod-id = "8iQcgjQ2"
+version = "bivLiGLI"

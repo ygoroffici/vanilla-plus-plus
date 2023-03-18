@@ -26,7 +26,7 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:1.0
-renderDistance:12
+renderDistance:10
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["Fabric Mods"]
+resourcePacks:["vanilla","file/xali\u0027s+Potions+v1.0.zip","Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -55,7 +55,7 @@ overrideHeight:0
 heldItemTooltips:true
 chatHeightFocused:1.0
 chatDelay:0.0
-chatHeightUnfocused:0.44366195797920227
+chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 mipmapLevels:2

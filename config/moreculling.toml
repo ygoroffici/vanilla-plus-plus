@@ -16,17 +16,4 @@ powderSnowCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
-adorn = true
-universal_ores = true
-cinderscapes = true
-bitsandchisels = true
-farmersdelight = true
-bountiful = true
-overweight_farming = true
-terrestria = true
-immersive_portals = true
-dehydration = true
-rocks = true
-arcanus = true
-puddles = true
 minecraft = true
