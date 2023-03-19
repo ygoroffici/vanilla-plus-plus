@@ -37,10 +37,6 @@ file = "config/autoswitchUseAction.cfg"
 hash = "2f8d11d71ce5bf6500721e0f60dfd04099a85231f987b3ad685c4123efd301a9"
 
 [[files]]
-file = "config/beautifiedchatclient.json5"
-hash = "fd20f923db33eadb5b98950d754d2dfa58d75ec0f9f23590978d699c41739745"
-
-[[files]]
 file = "config/betterCommandBlockUI.properties"
 hash = "22eccb80e351160e948eefe47dcd70177f681a7e041ee0f96c16717ac6be8cb3"
 
@@ -86,11 +82,11 @@ hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f60e61f527ca9e8246e446e256565cd6005222bd85da0a82db15c8c45d639e57"
+hash = "d9aa1b4b780ea291bfc40ab7860c5e808f16a3c733f0a18c353ec00108f2cbce"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "e300e6ee96bd4143c5a23eb09c22f63d17e37f39a1142fdb5c2b6626f939a7b4"
+hash = "22cb7ccc3e9759dddbad4192dc7e6319069699b90fbb4a9b95fb747c2a9d9b8f"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
@@ -193,6 +189,10 @@ file = "config/nicephore.json"
 hash = "0b9e17ce251d8289229066320aecb9c97519e0f30f9b63c7994f7013cc9f0887"
 
 [[files]]
+file = "config/plagueschattimestamps.json"
+hash = "623733bea70a3ff64bee3db9dc7daf85f1f09812ab00c30f6c240e3d40848859"
+
+[[files]]
 file = "config/slotcycler-client.toml"
 hash = "d3ac8d5baf1551e907c79f61f4726841646dd94e05f1b66968999deb983a286e"
 
@@ -221,8 +221,16 @@ file = "config/status-effect-bars.json"
 hash = "199e186fe3d3089cea5cefb11a321e8712bd8f8ff1d7a90b7d67f8019d7e171a"
 
 [[files]]
+file = "config/stendhal/stendhal.properties"
+hash = "549550a8498f83792e21f8232cd0f7bfcb482ec565f7b14adb2b29d05fb92052"
+
+[[files]]
 file = "config/stepup.json"
 hash = "eecc0c57024075596e5a426df2ce5b035ef6fd4ba95379b65d152269e612e699"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "e808bf6cf2ba98bf7e182a92ae39f4820fc709ec28bc360a3b808276c9f1ca31"
 
 [[files]]
 file = "config/trashslot.toml"
@@ -239,6 +247,16 @@ hash = "7b7e6c6f3c11bcb6babe562653fd2ad544d115c4141edf889d4feda73f9a2564"
 [[files]]
 file = "config/zoomify.json"
 hash = "99b1c8f319eb5382f07ef994e23c37d4fbbfaacf3d94e941c19258c3d4f3a4f9"
+
+[[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
+metafile = true
+
+[[files]]
+file = "mods/advanced-tooltips.pw.toml"
+hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
+metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -266,13 +284,13 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
-file = "mods/beautified-chat-client.pw.toml"
-hash = "53263f4c92485d67188073ea13cc35d13fb9edf0d0561ecb08922ac1ca825bfe"
+file = "mods/better-stats.pw.toml"
+hash = "be15deeef32d9c3b9aa0bbe44420bda699d01a778b1e882008ffdc6cf8a49d06"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "be15deeef32d9c3b9aa0bbe44420bda699d01a778b1e882008ffdc6cf8a49d06"
+file = "mods/better-third-person.pw.toml"
+hash = "4ee8073a39773e2eb3a51219bfd14f7cee648e855aa7f30b05adb184754d3169"
 metafile = true
 
 [[files]]
@@ -283,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "442cbd7f648f12ffd41be73ba5f29933ecb4acb820e33e5409685a6325f46f8f"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
 
 [[files]]
@@ -366,8 +389,18 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "8c4e940904b898bfa969a70045ecea49588f70d09413d45e1c41cb437bf27789"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "ba9d24c505acf5a4d14c7e23e3e4eccc39a4cc3f96bfe52375e08efbd4dda6a9"
 metafile = true
 
 [[files]]
@@ -416,6 +449,16 @@ hash = "2d89ca796ad576935102b7ba64e4c53afcb3d321fd1fc21390fa0a2574c91204"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
+file = "mods/improved-signs.pw.toml"
+hash = "cfdd24cdabb6d1c96528e35ffea48d4a4b88f471ca792e32e93155c64ca10314"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
@@ -456,6 +499,11 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
@@ -471,6 +519,21 @@ hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/pingspam.pw.toml"
+hash = "643d60ae589f49ebeab43625b84cc94c9faea2f533ed9a067084cb2a2a1c4ff3"
+metafile = true
+
+[[files]]
+file = "mods/plagues-chat-timestamps.pw.toml"
+hash = "b8410ad69dde0cbe45ee2fdee96b0073e40b2626a682c64ce88f1840f6611c11"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
@@ -483,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-history.pw.toml"
+hash = "d0fc643e099e25a108693492f6f88913801dc96c52bb91d6ecc53fcdd1bb98d5"
 metafile = true
 
 [[files]]
@@ -511,8 +579,18 @@ hash = "ab907ea5653d8869c147fea450bb1d553a85bc31b5f323bccb00b359533dabc6"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
+metafile = true
+
+[[files]]
 file = "mods/stepup.pw.toml"
 hash = "f4c40da8fc378013420d86fbdd3663f16cc8b8941be0ca18a61d8eac943c0ce7"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b54a2d0cdb07a011d353462037ee68dfa2108767be8485c58f65fea4986cb934"
 metafile = true
 
 [[files]]
