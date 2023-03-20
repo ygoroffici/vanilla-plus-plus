@@ -323,6 +323,11 @@ hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "d1a1e11e85756093c08e2658aa12b45073315781ba52d4d287a1210bd93925f7"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -518,6 +523,11 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
@@ -578,8 +588,8 @@ hash = "ad85600fddb58af75bee8cbf6807ac9b0bf0d57a2a963da8a57f77e80fe275b7"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+file = "mods/mouse-wheelie.pw.toml"
+hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
@@ -595,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
+metafile = true
+
+[[files]]
+file = "mods/notes.pw.toml"
+hash = "f57f5ae1d1bcbb584aa881dfab8f095c317f7316dd2c52d137f5340da22c98bc"
 metafile = true
 
 [[files]]
@@ -675,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b54a2d0cdb07a011d353462037ee68dfa2108767be8485c58f65fea4986cb934"
+metafile = true
+
+[[files]]
+file = "mods/taptab.pw.toml"
+hash = "7a3299c978a662d8b13922c868b332e6ef4f74dc9b811eafa775d307b0b0c1c8"
 metafile = true
 
 [[files]]
