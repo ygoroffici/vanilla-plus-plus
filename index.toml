@@ -9,10 +9,6 @@ file = "config/HorseBuff.toml"
 hash = "db9dbb98a4a53aadd20167e7a6da4d8cfd86b8c345f9ae7b255d80207e32a698"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
 file = "config/advancementinfo.json5"
 hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
 
