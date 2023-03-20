@@ -22,7 +22,7 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
 file = "config/autoswitch.cfg"
-hash = "5991d61bdc70808fdcf5ca7a0570906788746163cf0948cdb87ab386e83b9108"
+hash = "fbb3cf63633eecb33cc7d1c888ac8953b796dfc5c7ed65a48cf2152bf8177361"
 
 [[files]]
 file = "config/autoswitchAttackAction.cfg"
@@ -87,6 +87,10 @@ hash = "d9aa1b4b780ea291bfc40ab7860c5e808f16a3c733f0a18c353ec00108f2cbce"
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "22cb7ccc3e9759dddbad4192dc7e6319069699b90fbb4a9b95fb747c2a9d9b8f"
+
+[[files]]
+file = "config/durabilityviewer.json"
+hash = "be55cbd83e8830e2f5518182c28e629fd15d065163bbacc2c6f4e6f6b6857c63"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
@@ -279,6 +283,11 @@ hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
+metafile = true
+
+[[files]]
 file = "mods/autoswitch.pw.toml"
 hash = "62e022bec51910486f8af152e77cd7ba1afec7e51e3c2a29db40216c2f4650a0"
 metafile = true
@@ -319,6 +328,11 @@ hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "ea24c67af3a1d22efe72ac7265a8c2b90b4ff5684f44457e9db4ccbab71a55a6"
 metafile = true
@@ -351,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "2319a99f388ce4a860c3012f94b553a4ee80afd08b8ca5290c40f197d2398fc2"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "84c3fa8f432a1f7d8692e7a52f5c4a7b60c5c215a1329af48df76544e72b90d6"
 metafile = true
 
 [[files]]
@@ -464,6 +483,11 @@ hash = "1a1c056a53c1ae56362b10c86d96695ea5709eb9c51d6237d33b3190af9c3ffc"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
@@ -486,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
@@ -564,6 +593,11 @@ hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
@@ -581,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "c68fd77a3e60f7bfe40892e44d94e21df68f1542230ff709525259257d3fe1ca"
 metafile = true
 
 [[files]]
