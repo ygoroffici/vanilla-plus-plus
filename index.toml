@@ -314,6 +314,11 @@ hash = "442cbd7f648f12ffd41be73ba5f29933ecb4acb820e33e5409685a6325f46f8f"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "71995078727b9611c47ada960fe05bcf49e53f6f4e1dfcc19bf7dd5ae7a7bfba"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
@@ -611,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "6ef49bd7b23bb27264f9102652238886e35a2ad58bebce9fca27453a91da95f5"
 metafile = true
 
 [[files]]
