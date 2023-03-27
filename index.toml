@@ -18,7 +18,7 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
 file = "config/autoswitch.cfg"
-hash = "fbb3cf63633eecb33cc7d1c888ac8953b796dfc5c7ed65a48cf2152bf8177361"
+hash = "4a3b6a91ca8e907f698d3d028cb90112cc48fc993e30f05a5ffd87b3b792630d"
 
 [[files]]
 file = "config/autoswitchAttackAction.cfg"
@@ -61,12 +61,20 @@ file = "config/clickadv.json"
 hash = "a0f067b46d7d277358db68b16409453e4dca58f90e772072ff56ac1c541aa20c"
 
 [[files]]
+file = "config/clienttweaks.toml"
+hash = "d05f9b2b5d589f254a187bc16a7ddf2059539e6f791e529f7e98cbe851a84d0b"
+
+[[files]]
 file = "config/collective.json5"
 hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/configured.client.toml"
 hash = "24d82d11bce1d0a1ff00b3c733d7d15c779108066d28599458cb1ab9fbfe6e08"
+
+[[files]]
+file = "config/couplings.toml"
+hash = "b9604d196333f851a107e9d10ce587c53d0f0268677994b57ccdc80097d55124"
 
 [[files]]
 file = "config/crowdin.txt"
@@ -78,7 +86,7 @@ hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d9aa1b4b780ea291bfc40ab7860c5e808f16a3c733f0a18c353ec00108f2cbce"
+hash = "8975d86472cad48b5a9c51e4b3a27eb8245916753afb07a75f3c3070e83fc72f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -185,6 +193,10 @@ file = "config/moreculling.toml"
 hash = "82dbada355746c1fa2c8609a71271c8a2ade19a8bd6f88c86a2e343801377351"
 
 [[files]]
+file = "config/mousewheelie.hjson"
+hash = "57edd30fa747bc606251b2208a50c81e33f7e065edaa892b2a675d8d6bf8b8e9"
+
+[[files]]
 file = "config/nicephore.json"
 hash = "0b9e17ce251d8289229066320aecb9c97519e0f30f9b63c7994f7013cc9f0887"
 
@@ -247,6 +259,11 @@ hash = "7b7e6c6f3c11bcb6babe562653fd2ad544d115c4141edf889d4feda73f9a2564"
 [[files]]
 file = "config/zoomify.json"
 hash = "99b1c8f319eb5382f07ef994e23c37d4fbbfaacf3d94e941c19258c3d4f3a4f9"
+
+[[files]]
+file = "mods/accurate-block-placement.pw.toml"
+hash = "4d6299b2f9c6accc699bf3c62ae346e2dd62cd561d09aa8c84f6fdd5585b2597"
+metafile = true
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -319,6 +336,16 @@ hash = "71995078727b9611c47ada960fe05bcf49e53f6f4e1dfcc19bf7dd5ae7a7bfba"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "d71eb6da356995eac7d2e13b396ecb0df92c8b5ac53bc8ef339267fbedbfe723"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
@@ -344,6 +371,11 @@ hash = "ea24c67af3a1d22efe72ac7265a8c2b90b4ff5684f44457e9db4ccbab71a55a6"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "7aa0e665307df7cf5469235993abed6ff73eadfc67703089df53add5d11bd61b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -361,6 +393,16 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
+hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
+metafile = true
+
+[[files]]
+file = "mods/death-finder.pw.toml"
+hash = "071f50feec8c158e61d03e0d0d7ab559b93d1557624c3033307c3d3a8e5f8264"
 metafile = true
 
 [[files]]
@@ -534,6 +576,16 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "f2cd2fa726166f7999637329a561a9652f8818cda07c368edf57096898fb1c40"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "6c304361dddd8140bd5c6667ff257f7261fe933ee618b95f0b4874202dcd74c3"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -571,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3e0f931b0bab8913f2d792fb3f05f7e52dfe4396abc9138fdbfcc96ee091c770"
 metafile = true
 
 [[files]]
@@ -716,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7cf22d2aa1f6962cb8cfda172f9a9e480cbe5cd4e58d607d8c4d6cae88c086d2"
+metafile = true
+
+[[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "2d341ee5e3436ded38ca36262832bf44f4fb4df4ecb4ca9c3b3e21f24521be40"
 metafile = true
 
 [[files]]
