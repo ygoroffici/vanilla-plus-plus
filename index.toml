@@ -229,14 +229,6 @@ file = "config/nicephore.json"
 hash = "0b9e17ce251d8289229066320aecb9c97519e0f30f9b63c7994f7013cc9f0887"
 
 [[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
 file = "config/plagueschattimestamps.json"
 hash = "623733bea70a3ff64bee3db9dc7daf85f1f09812ab00c30f6c240e3d40848859"
 
@@ -926,11 +918,6 @@ hash = "f57f5ae1d1bcbb584aa881dfab8f095c317f7316dd2c52d137f5340da22c98bc"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "bb3eade7942567c36fc88230bfcf24132e8b7be8d975f26a4cd9aa502d5b86db"
-metafile = true
-
-[[files]]
 file = "mods/pettable.pw.toml"
 hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
 metafile = true
@@ -1108,11 +1095,6 @@ metafile = true
 [[files]]
 file = "mods/your-items-are-safe.pw.toml"
 hash = "23d5d6c4ca9d4f6c409524ddbe8aecc33daf25aff971b3b262914036e0917a81"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
