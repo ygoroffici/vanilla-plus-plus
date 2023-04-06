@@ -102,7 +102,7 @@ hash = "bbb87525e36bd65b01c0508138d8de37f1ac0e31a0e93bf9c3b27ccfa6359130"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "22cb7ccc3e9759dddbad4192dc7e6319069699b90fbb4a9b95fb747c2a9d9b8f"
+hash = "e8e613033e7bf9ffc269ee3e55eb11cde3c894efa6538872dca37d3530c9a8af"
 
 [[files]]
 file = "config/durabilityviewer.json"
