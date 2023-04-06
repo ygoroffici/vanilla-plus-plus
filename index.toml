@@ -423,11 +423,6 @@ hash = "d71eb6da356995eac7d2e13b396ecb0df92c8b5ac53bc8ef339267fbedbfe723"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "7cd1d6f65dfe64cdb07180872ca629e6e7a583437cc1a410baa083df763974fc"
 metafile = true
