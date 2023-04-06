@@ -38,7 +38,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","Fabric Mods","file/xali\u0027s+Potions+v1.0.zip","itemswapper/default","file/EBE_v1.1_1.19.x.zip","file/BannerPatternClarity-1.19.3c.zip","file/BvBOverlaysV5.zip","continuity/default"]
-incompatibleResourcePacks:["file/BannerPatternClarity-1.19.3c.zip","file/BvBOverlaysV5.zip"]
+incompatibleResourcePacks:["file/xali\u0027s+Potions+v1.0.zip","file/BannerPatternClarity-1.19.3c.zip","file/BvBOverlaysV5.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

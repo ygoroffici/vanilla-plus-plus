@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f3471d9920ac8355f16c76c39489c70b5c1353a307737a127065701d7c72d999"
+hash = "ce0f68ab337a873e14fb4868cdd8a6335ef3b5e687404bc31e7dc81e7a9f7de7"
 
 [[files]]
 file = "resourcepacks/banner-pattern-clarity.pw.toml"
