@@ -1,0 +1,13 @@
+name = "Creative Block Replacer"
+filename = "creativeblockreplacer-1.19.2-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKW2Xxpk/versions/o2ddCkqW/creativeblockreplacer-1.19.2-2.0.jar"
+hash-format = "sha1"
+hash = "35ca7cc040608edbaf13d43a76d360dd7b3957a4"
+
+[update]
+[update.modrinth]
+mod-id = "XKW2Xxpk"
+version = "o2ddCkqW"

@@ -1,0 +1,13 @@
+name = "Fabric Tree Chopper"
+filename = "fabric-tree-chopper-0.8.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nuvrbzBD/versions/flXlFz9A/fabric-tree-chopper-0.8.10.jar"
+hash-format = "sha1"
+hash = "e18ad53b285c985309aadf23e5266b8cbe239897"
+
+[update]
+[update.modrinth]
+mod-id = "nuvrbzBD"
+version = "flXlFz9A"

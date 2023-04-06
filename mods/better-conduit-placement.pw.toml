@@ -1,0 +1,13 @@
+name = "Better Conduit Placement"
+filename = "betterconduitplacement-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lRF5nzIz/versions/W7FMC90E/betterconduitplacement-1.19.2-3.0.jar"
+hash-format = "sha1"
+hash = "ae9c67b7a4c68f838be7981500278898b051dac5"
+
+[update]
+[update.modrinth]
+mod-id = "lRF5nzIz"
+version = "W7FMC90E"

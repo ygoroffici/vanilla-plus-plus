@@ -1,0 +1,13 @@
+name = "Hoe Tweaks"
+filename = "hoetweaks-1.19.2-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9vlChzlU/versions/Awe2QQ95/hoetweaks-1.19.2-3.2.jar"
+hash-format = "sha1"
+hash = "b9c5541cbe19127403de3a38f18685485cc51373"
+
+[update]
+[update.modrinth]
+mod-id = "9vlChzlU"
+version = "Awe2QQ95"

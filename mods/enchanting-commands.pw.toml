@@ -1,0 +1,13 @@
+name = "Enchanting Commands"
+filename = "enchantingcommands-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w8ljvewX/versions/FNkQhBC9/enchantingcommands-1.19.2-3.0.jar"
+hash-format = "sha1"
+hash = "e9d0ba7ab3c4eafc43a5fd5827dcccfab96683b7"
+
+[update]
+[update.modrinth]
+mod-id = "w8ljvewX"
+version = "FNkQhBC9"
