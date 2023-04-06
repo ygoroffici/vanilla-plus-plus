@@ -45,6 +45,10 @@ file = "config/blockrunner.json"
 hash = "d771da58993b44a9b598450d6c748010da3912f27f7ff8cd7ca2c7a68437f147"
 
 [[files]]
+file = "config/bottleyourxp.json5"
+hash = "d3f63ae446f3c662a176440b3977c4843e42e647ef1b31c90aea94b8c3a89444"
+
+[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
@@ -61,12 +65,20 @@ file = "config/clickadv.json"
 hash = "a0f067b46d7d277358db68b16409453e4dca58f90e772072ff56ac1c541aa20c"
 
 [[files]]
+file = "config/clienttweaks-client.toml"
+hash = "66ef8daf0b9bcc03460e43bd6b6c3502aa3cb4af1169f2a0e8b45950f83a5937"
+
+[[files]]
 file = "config/clienttweaks.toml"
 hash = "d05f9b2b5d589f254a187bc16a7ddf2059539e6f791e529f7e98cbe851a84d0b"
 
 [[files]]
 file = "config/collective.json5"
 hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/companion-common.toml"
+hash = "1e784b7097b5d5a2e8924150678c4ef7b9812cb8f886231d31e9954e4be326e5"
 
 [[files]]
 file = "config/configured.client.toml"
@@ -86,7 +98,7 @@ hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "8975d86472cad48b5a9c51e4b3a27eb8245916753afb07a75f3c3070e83fc72f"
+hash = "bbb87525e36bd65b01c0508138d8de37f1ac0e31a0e93bf9c3b27ccfa6359130"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -133,6 +145,10 @@ file = "config/extendedcreativeinventory.json5"
 hash = "dc2a6c231f89dff58bde6b4c21db224b72d632da9cb3313526549e03cfef8648"
 
 [[files]]
+file = "config/fabric-tree-chopper.json"
+hash = "dee3cb7aabef2ca8ce324a38bbc9d6e9004b4c162c076e66298c9f639b62025a"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "c97e0beac79088b0eeeef24fd72bd488f08b4582b976530f8628368cc6e49123"
 
@@ -141,12 +157,24 @@ file = "config/ferritecore.mixin.properties"
 hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
 [[files]]
+file = "config/freecam.json5"
+hash = "b57a88fb096fc8f25e7edb28a2b1fe658ff8ab79ef943795ca28dc7d1804dabc"
+
+[[files]]
 file = "config/goprone.json"
 hash = "7dcd4adafeb2c91fddee5ac7c215158c303df7dee947a83eebc1ef1615b5081b"
 
 [[files]]
+file = "config/healingcampfire.json5"
+hash = "3208f08051053079bc4453cc2a9340e3f045f91d52e3c2216b73d68f9f639cb6"
+
+[[files]]
 file = "config/horsestatsvanilla.json5"
 hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
+
+[[files]]
+file = "config/interactic.json5"
+hash = "ad5a7abd97b5b1dd5197d459cb3a9e4a5c67c41d2cade79490a476c4e019b562"
 
 [[files]]
 file = "config/jade/hide-entities.json"
@@ -201,12 +229,56 @@ file = "config/nicephore.json"
 hash = "0b9e17ce251d8289229066320aecb9c97519e0f30f9b63c7994f7013cc9f0887"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/BannerPatternClarity-1.19.3c.zip"
+hash = "adfa0dc128af2601e1a2b9dc53fb7775a9d65fba063af1b561e33978e3c924ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/BvBOverlaysV5.zip"
+hash = "ee71312099765d0bd09c7596b8c8700d20f9f4e30760a50339ba72fe030cd675"
+
+[[files]]
+file = "config/paxi/resourcepacks/EBE_v1.1_1.19.x.zip"
+hash = "b43476bf85693e1dc01f80af2fc8a9d11828aa86fb912e5dbe327fb240d3cbb8"
+
+[[files]]
+file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
+hash = "f8304b58e0faee7d30054dff9da0b7cdc33b172f74e277e890a576ef93b6bcbc"
+
+[[files]]
 file = "config/plagueschattimestamps.json"
 hash = "623733bea70a3ff64bee3db9dc7daf85f1f09812ab00c30f6c240e3d40848859"
 
 [[files]]
+file = "config/simple-rpc/server-entries.bak"
+hash = "ea323da4d2987af1ed1290d7ef69cf65fe997d8425f34977289b715d602c6ba0"
+
+[[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.bak"
+hash = "bb1e4cf492c0f166aae4cda722934516cda91de71785b173bc17b63f9cd3e78b"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "df582f174526b0634493e5524c9ebf4e3dcddbf6d039a8cdf2499923d5ef92a9"
+
+[[files]]
 file = "config/slotcycler-client.toml"
 hash = "d3ac8d5baf1551e907c79f61f4726841646dd94e05f1b66968999deb983a286e"
+
+[[files]]
+file = "config/snowballsfreezemobs.json5"
+hash = "8d3dd49b7ead32eb44db1add715f62580053cb7a9ea9a170cab69dbfed68174c"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -255,6 +327,10 @@ hash = "fda5ed7c50fc65cc2047bca6649a6ffd59ddd64fcec5d6156ac48096ef159451"
 [[files]]
 file = "config/visualworkbench-client.toml"
 hash = "7b7e6c6f3c11bcb6babe562653fd2ad544d115c4141edf889d4feda73f9a2564"
+
+[[files]]
+file = "config/weakerspiderwebs.json5"
+hash = "7fef179938e21962eb2968f0dd06fc96c2397738a3d6c068fd1b8ce17835a312"
 
 [[files]]
 file = "config/zoomify.json"
