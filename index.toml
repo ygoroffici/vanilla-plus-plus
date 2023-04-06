@@ -97,14 +97,6 @@ file = "config/defaultoptions.toml"
 hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "bbb87525e36bd65b01c0508138d8de37f1ac0e31a0e93bf9c3b27ccfa6359130"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "e8e613033e7bf9ffc269ee3e55eb11cde3c894efa6538872dca37d3530c9a8af"
-
-[[files]]
 file = "config/durabilityviewer.json"
 hash = "be55cbd83e8830e2f5518182c28e629fd15d065163bbacc2c6f4e6f6b6857c63"
 
@@ -545,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "2319a99f388ce4a860c3012f94b553a4ee80afd08b8ca5290c40f197d2398fc2"
 metafile = true
 
 [[files]]
@@ -1101,6 +1088,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "f3471d9920ac8355f16c76c39489c70b5c1353a307737a127065701d7c72d999"
 
 [[files]]
 file = "resourcepacks/banner-pattern-clarity.pw.toml"
