@@ -237,22 +237,6 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/BannerPatternClarity-1.19.3c.zip"
-hash = "adfa0dc128af2601e1a2b9dc53fb7775a9d65fba063af1b561e33978e3c924ff"
-
-[[files]]
-file = "config/paxi/resourcepacks/BvBOverlaysV5.zip"
-hash = "ee71312099765d0bd09c7596b8c8700d20f9f4e30760a50339ba72fe030cd675"
-
-[[files]]
-file = "config/paxi/resourcepacks/EBE_v1.1_1.19.x.zip"
-hash = "b43476bf85693e1dc01f80af2fc8a9d11828aa86fb912e5dbe327fb240d3cbb8"
-
-[[files]]
-file = "config/paxi/resourcepacks/xali's+Potions+v1.0.zip"
-hash = "f8304b58e0faee7d30054dff9da0b7cdc33b172f74e277e890a576ef93b6bcbc"
-
-[[files]]
 file = "config/plagueschattimestamps.json"
 hash = "623733bea70a3ff64bee3db9dc7daf85f1f09812ab00c30f6c240e3d40848859"
 
@@ -1134,4 +1118,24 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/banner-pattern-clarity.pw.toml"
+hash = "1ebc58412740916449a3be7aafc271ddff7f1181c0e0103200670a64962c4551"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
+hash = "33516cf5202f280757429d26f42ddea9a5eccae34f284783bb1e855b3112ec2b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "fb3bb63b4bd63fb78b0843a0b067f171b03db137c87bc689e9c14038b371ff6c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potions.pw.toml"
+hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
 metafile = true

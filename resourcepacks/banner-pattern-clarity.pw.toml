@@ -1,0 +1,13 @@
+name = "Banner Pattern Clarity"
+filename = "BannerPatternClarity-1.19.3c.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uigm3P2d/versions/o1uRUWQv/BannerPatternClarity-1.19.3c.zip"
+hash-format = "sha1"
+hash = "f068d521145dfb1d0c65c7cfdeac5e4f42e8981c"
+
+[update]
+[update.modrinth]
+mod-id = "Uigm3P2d"
+version = "o1uRUWQv"

@@ -1,0 +1,13 @@
+name = "BetterVanillaBuilding Overlays"
+filename = "BvBOverlaysV5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IsCR9XVF/versions/CLUXI3tH/BvBOverlaysV5.zip"
+hash-format = "sha1"
+hash = "11ad29a313ac4a84331220749bd3331c50d5c3cb"
+
+[update]
+[update.modrinth]
+mod-id = "IsCR9XVF"
+version = "CLUXI3tH"
