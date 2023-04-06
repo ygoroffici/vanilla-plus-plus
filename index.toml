@@ -423,6 +423,11 @@ hash = "d71eb6da356995eac7d2e13b396ecb0df92c8b5ac53bc8ef339267fbedbfe723"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "448dde213581563eaabcb6639197eda66902b3dec0f979d5830f3ab3f95dd4ff"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "7cd1d6f65dfe64cdb07180872ca629e6e7a583437cc1a410baa083df763974fc"
 metafile = true
