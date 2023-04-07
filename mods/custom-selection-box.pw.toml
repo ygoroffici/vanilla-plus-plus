@@ -1,0 +1,13 @@
+name = "Custom Selection Box"
+filename = "customselectionbox-1.5.0-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3LWVGe4/versions/PROWtdKP/customselectionbox-1.5.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "f98d1a2b636e19d8fc79373d10b993bc87f0fddf"
+
+[update]
+[update.modrinth]
+mod-id = "H3LWVGe4"
+version = "PROWtdKP"

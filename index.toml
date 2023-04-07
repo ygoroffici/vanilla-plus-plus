@@ -125,6 +125,10 @@ file = "config/emitrades.toml"
 hash = "bcccf999e46e09321c9d7a2b0e783b8278a33e6cc8e90332108a67733d971e30"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "21d54ef49b1ce711c900e5c13ae033a89f68d52a29f30cc52f6321fe12415d69"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
@@ -305,6 +309,75 @@ file = "config/zoomify.json"
 hash = "99b1c8f319eb5382f07ef994e23c37d4fbbfaacf3d94e941c19258c3d4f3a4f9"
 
 [[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/config.mcfunction"
+hash = "49ad4b6a43af6b3408fa4fd48f51bcc652bbc622d14018c57894b26efcf79468"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/limit_check.mcfunction"
+hash = "f85f6617b88be041d7a31a43fd0d3a5f17ad3c96859a539e268f746d5141d78c"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/load.mcfunction"
+hash = "7c2eee94e6696738693270bbcda14034fdc28f17f8752215dd093850e39382f3"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/movement_check.mcfunction"
+hash = "ef5c82fa23a80d59b10a9e087f328840d1f830d805d1700a2b3815a2f4fe9369"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/overhang_check.mcfunction"
+hash = "2e7551ca25df0d715b32e1822195c97a3f61948f9214046b6eee58b686fcb671"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/remove.mcfunction"
+hash = "ef79ece1b98b34a06f3772a0469a36e470778c96c4e4d3fee4f15e62e75c6fac"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/step_after.mcfunction"
+hash = "70ffc09bb94f33244d2f4346ef8a79c4d2d60d6ac920b65491376be58f5b63d2"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/step_generic.mcfunction"
+hash = "c925a31664d069b403ffd2abed7ea55cd050460ed873b4df73ccefb482ddbad8"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/step_height.mcfunction"
+hash = "38418c5341e14595a701aefa68abc39b09e2f678fd0337f0d23aa85e93be2b2d"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/tick.mcfunction"
+hash = "344ae1890d8c779487c89324236327cef8e5345db092d9385be3c826cabf614e"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/time_check.mcfunction"
+hash = "3a7e64982c2f10bd7080fc0e4761813195ac239333415253b450178de0852598"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/functions/walk.mcfunction"
+hash = "952e8bde0ceba40c03248eca035eb5d4c68fdb762e06fbd0f2557d354f78db06"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/footprints/predicates/on_ground.json"
+hash = "28c18b0aa512d920a3f4611311324a7b82c33d9cd5faa34703e7907a9872dde5"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/minecraft/tags/functions/load.json"
+hash = "a07f15991bba80b3f9e8c3c71d400eb8e5ca6737515abe1b4776a84cbbb0924c"
+
+[[files]]
+file = "global_packs/required_data/footprints/data/minecraft/tags/functions/tick.json"
+hash = "27a5d3f5ba522aec7bbd08dcccc789aaf61154923fbb72fd70cbeae2d5f79d9e"
+
+[[files]]
+file = "global_packs/required_data/footprints/pack.mcmeta"
+hash = "1bd72a488d9d65d22d68d1c6fca5d8c372bac22d59342770d6a9a7aa58cb8bb3"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
 file = "mods/accurate-block-placement.pw.toml"
 hash = "4d6299b2f9c6accc699bf3c62ae346e2dd62cd561d09aa8c84f6fdd5585b2597"
 metafile = true
@@ -340,6 +413,11 @@ hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
 metafile = true
 
 [[files]]
+file = "mods/armor-chroma-for-fabric.pw.toml"
+hash = "d7b730ba9af222aae704a34891f41497d72620ab75da092714fc4f186d230bcf"
+metafile = true
+
+[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
@@ -360,8 +438,18 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "6eb0b682608efaf6c7e6b7310014a2933f4563422a9e0bbc96a05ad4ed57b900"
+metafile = true
+
+[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "2c0b8ee3c1b87d1f85dead21ecb3e216a7599a79404ab76e95926684f4dc7879"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
@@ -470,6 +558,11 @@ hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
 
 [[files]]
+file = "mods/colorful-subtitles.pw.toml"
+hash = "03b5eb0f55147afddae6ed081ca8457d6f847d57d6dbcf568207f658a26605fc"
+metafile = true
+
+[[files]]
 file = "mods/compact-help-command.pw.toml"
 hash = "513d70984b8e280606ab0e282772155015fc0dec511dc89c6351cd5d3ab5129f"
 metafile = true
@@ -520,6 +613,11 @@ hash = "52aa9ca574c5ab2c2879c71303d83353c249fccd7030c4669f8a5ca09d895e49"
 metafile = true
 
 [[files]]
+file = "mods/custom-selection-box.pw.toml"
+hash = "f92045121c29d5f16265b1e4955fcf0bce898756141ba2d20105cbe958d88ce4"
+metafile = true
+
+[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "d534926f442e45db8010ea2c19efb8d544842e2dc2518a47f8d863ef5ee351c8"
 metafile = true
@@ -542,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "42288c04400949844e2b1f90285ba20951679db9ef80e478303bbf8e4baa1453"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds-fabric.pw.toml"
+hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
 metafile = true
 
 [[files]]
@@ -635,11 +738,6 @@ hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
-file = "mods/extended-creative-inventory.pw.toml"
-hash = "77224d1911e97beed62f0df1044935375d8d9f8be957fbc9debde1753607f3c7"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
@@ -687,6 +785,11 @@ metafile = true
 [[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "c2cf08accdf63e7b162397e98b0e54a6530a5e7084ab7428391830fc9a0ad902"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "7d01d188e1ba4bfd09887d9f93ed69a781e122077bbbeed042d9ee2ced87f30b"
 metafile = true
 
 [[files]]
@@ -835,6 +938,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
@@ -892,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
@@ -965,13 +1078,28 @@ hash = "856d0d1f22c22809bbb904ffa66a5d835914eae9c36874bd1bce488d018c05c0"
 metafile = true
 
 [[files]]
+file = "mods/scarves.pw.toml"
+hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
+metafile = true
+
+[[files]]
 file = "mods/server-chat-history.pw.toml"
 hash = "d0fc643e099e25a108693492f6f88913801dc96c52bb91d6ecc53fcdd1bb98d5"
 metafile = true
 
 [[files]]
+file = "mods/sheep-consistency.pw.toml"
+hash = "37e300586bc8fc7bb0154d658caddec3e9a95b15fb6dca81f5423890fd4166ff"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "f85e581c4d235bfc5b97fb79d5fcc7eafd39ddbe8ebcbd29a7be8650cba0caef"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "7b5dea35456bde440cb054c87e52107f6676f2dfe7139413c57e3bd57ceab8e4"
 metafile = true
 
 [[files]]
@@ -1010,6 +1138,11 @@ hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "b4b8e10d243bf3b0c5a3e2346141adae563bc70156fdd111a27cf1de827c24be"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "ab907ea5653d8869c147fea450bb1d553a85bc31b5f323bccb00b359533dabc6"
 metafile = true
@@ -1035,6 +1168,16 @@ hash = "7a3299c978a662d8b13922c868b332e6ef4f74dc9b811eafa775d307b0b0c1c8"
 metafile = true
 
 [[files]]
+file = "mods/technomodel.pw.toml"
+hash = "b78f0d34ba266d92edbebf3940331a1d81458dc50b5c2790916612e465218dd9"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "8bf3894aa1f23eb474d4c4642ee2ced7b6ccb79d34189ffb8d5ddc031316e546"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "581a2b893e0d9ad6a635a4b77c8c4ac93545be9a9ac41d15a705830ce27cb665"
 metafile = true
@@ -1045,8 +1188,23 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/vanity.pw.toml"
+hash = "1ab6eb2d0acd22e5d7d799e2fe4bd0bfca0b40fba29f7c741fb3813427f5142b"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "be34bd5471798bf4920021365567c05bc89b742b0e47d8ba8bd53049a60ee9ef"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
