@@ -1,0 +1,13 @@
+name = "ContainerSearcher [Fabric]"
+filename = "ContainerSearcher-0.1.7+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3cb6e512790dbb89d7d44f845b90ef00c354008"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4453332
+project-id = 632699
