@@ -4232,6 +4232,11 @@ hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
 
 [[files]]
+file = "mods/auditory.pw.toml"
+hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
 metafile = true
@@ -4554,11 +4559,6 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "970495778ec0ffeb208492811dfd0e135ce149843ba7174d0a629a8c67a1d400"
-metafile = true
-
-[[files]]
-file = "mods/extrasounds.pw.toml"
-hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
