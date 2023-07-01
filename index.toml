@@ -1282,13 +1282,13 @@ hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
-file = "mods/horse-expert.pw.toml"
-hash = "05bef401a05e8691fd02a7caefe4bff6af929cc01e35f1ba086df2b725cf1b56"
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
-file = "mods/horsebuff.pw.toml"
-hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
+file = "mods/horsestatsvanilla.pw.toml"
+hash = "2bc10662c2d2be0ba414414651ff2029461dca4df9b7e3a27417312f0f5e7fae"
 metafile = true
 
 [[files]]
