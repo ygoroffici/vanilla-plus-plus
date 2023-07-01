@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatsounds.pw.toml"
-hash = "0f1d3f3b97ccd1ab587e8742a625856813404fff8b2c0e76e6acdab7162c2c6f"
+hash = "5ed18842064e4bd6c43718fc174efa61a19a89159753abe98ea88e3d053d4954"
 metafile = true
 
 [[files]]
