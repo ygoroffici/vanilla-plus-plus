@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/BX3at1x4/versions/UnoyaGkH/technomodel-1.0.3.jar"
 hash-format = "sha1"
-hash = "387afa6305f0c2157ba27158de1136ca70740d3e"
+hash = "6263331baa88ba8f23570c429f9fcb92f92c4837"
 
 [update]
 [update.modrinth]

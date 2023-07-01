@@ -1,0 +1,9 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true
+  },
+  "hideBackground": {
+    "com.github.mim1q.convenientnametags.screen.RenameNameTagScreen": true,
+    "infinituum.labellingcontainers.guis.LabelPrinterGui": true
+  }
+}

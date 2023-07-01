@@ -1,13 +1,13 @@
 name = "Slot Cycler"
-filename = "SlotCycler-v4.0.2-1.19.2-Fabric.jar"
+filename = "SlotCycler-v4.0.3-1.19.2-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3kl8Lmm9/versions/E7tue40c/SlotCycler-v4.0.2-1.19.2-Fabric.jar"
+url = "https://cdn.modrinth.com/data/3kl8Lmm9/versions/h1CD2Sgj/SlotCycler-v4.0.3-1.19.2-Fabric.jar"
 hash-format = "sha1"
-hash = "cb6b102e466cc2f699796bb2f603715cdbc0cfab"
+hash = "25c18dfa11447b6f3e710f50e1abbc5aef1d5a01"
 
 [update]
 [update.modrinth]
 mod-id = "3kl8Lmm9"
-version = "E7tue40c"
+version = "h1CD2Sgj"

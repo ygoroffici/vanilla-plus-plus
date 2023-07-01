@@ -1,0 +1,13 @@
+name = "Grabby Mobs"
+filename = "grabbymobs-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O6Sh7btX/versions/1BKT5tcm/grabbymobs-1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "a21f115281528e639f217fbe3c56d033665a9a82"
+
+[update]
+[update.modrinth]
+mod-id = "O6Sh7btX"
+version = "1BKT5tcm"

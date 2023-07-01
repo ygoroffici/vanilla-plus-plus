@@ -1,13 +1,13 @@
 name = "Chat Sounds"
-filename = "chatsounds-1.1.7.jar"
+filename = "chatsounds-1.1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GO9EQa8a/versions/Inb0L1JK/chatsounds-1.1.7.jar"
+url = "https://cdn.modrinth.com/data/GO9EQa8a/versions/tmPhSRrQ/chatsounds-1.1.8.jar"
 hash-format = "sha1"
-hash = "4c6111e846db5b5df33240a17f9d463f838d804f"
+hash = "2796f6286d568a6a1b285cbd741874b76a374011"
 
 [update]
 [update.modrinth]
 mod-id = "GO9EQa8a"
-version = "Inb0L1JK"
+version = "tmPhSRrQ"

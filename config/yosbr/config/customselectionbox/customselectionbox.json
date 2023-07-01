@@ -1,0 +1,13 @@
+{
+  "alpha": 0.4,
+  "blinkAlpha": 0.0,
+  "blinkSpeed": 0.0,
+  "blockAlpha": 0.0,
+  "blue": 0.0,
+  "breakAnimation": "NONE",
+  "disableDepthBuffer": false,
+  "green": 0.0,
+  "linkBlocks": false,
+  "red": 0.0,
+  "thickness": 2.5
+}

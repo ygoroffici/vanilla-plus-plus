@@ -1,13 +1,13 @@
-name = "Vanilla++"
-author = "Ygor (toastedwaffles)"
-version = "0.1.0"
+name = "Vanilla++ Fabric 1.19.2"
+author = "ygoroffici"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "17a5ec7ec1b66d14238276828d882829f629fdf06a769a188891e7fde4969790"
+hash = "83e15c046f053f63bf429ec341bae9fec55a0bb644ba57037d9108c57ad51eb2"
 
 [versions]
-fabric = "0.14.17"
+fabric = "0.14.21"
 minecraft = "1.19.2"

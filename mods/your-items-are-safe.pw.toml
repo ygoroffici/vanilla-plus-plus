@@ -1,13 +1,13 @@
 name = "Your Items Are Safe"
-filename = "youritemsaresafe-1.19.2-3.2.jar"
+filename = "youritemsaresafe-1.19.2-3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lL35xmSR/versions/XSmvinSP/youritemsaresafe-1.19.2-3.2.jar"
+url = "https://cdn.modrinth.com/data/lL35xmSR/versions/Xypv3VnZ/youritemsaresafe-1.19.2-3.4.jar"
 hash-format = "sha1"
-hash = "e4d7342f65864adc360d97732e0482d1db4a29bf"
+hash = "e3e791cf57981559f58e46163a02a040d153dbb8"
 
 [update]
 [update.modrinth]
 mod-id = "lL35xmSR"
-version = "XSmvinSP"
+version = "Xypv3VnZ"
