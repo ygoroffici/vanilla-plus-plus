@@ -917,11 +917,6 @@ hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
-file = "mods/clean-tooltips.pw.toml"
-hash = "e762c59d04389fdc3b42c9b100aaea861dc73155534475f898ecfd8f7dd3f968"
-metafile = true
-
-[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
 metafile = true
@@ -1397,8 +1392,8 @@ hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
-file = "mods/lazy-language-loader.pw.toml"
-hash = "aa121458453ea2bc4925da583208f8b503b34c4d4a924cf46f8f45c1fa0f587c"
+file = "mods/language-reload.pw.toml"
+hash = "cfd9e5d05e671d4229d2afee38ba971004ada26cb99f41523d42a1bc1c0aacfe"
 metafile = true
 
 [[files]]
