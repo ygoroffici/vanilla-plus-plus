@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/moreculling.toml"
+hash = "b78fd98769ce5b631c7902d7066eb99e6120f0b3fedff8858ba94a95e43e08eb"
+
+[[files]]
+file = "config/powershot/breakable_blocks.json"
+hash = "34b76c3b18fb9f7c6a183512b2c6562d203881be9d674f7227f1d6973f54cc17"
+
+[[files]]
+file = "config/powershot/power_calculation.json"
+hash = "d6f4df9d8a76b55ea34acfb8e9f430a30cec2965a0db9dcf027cd803a76211e6"
+
+[[files]]
 file = "config/simple-rpc/server-entries.bak"
 hash = "ea323da4d2987af1ed1290d7ef69cf65fe997d8425f34977289b715d602c6ba0"
 
@@ -505,10 +517,6 @@ file = "config/yosbr/config/mooshroomtweaks.json5"
 hash = "48563ba803ba9e935b0c87c9a84a20795824837864302887c8bd95b14f482bf2"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "82dbada355746c1fa2c8609a71271c8a2ade19a8bd6f88c86a2e343801377351"
-
-[[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
 hash = "57edd30fa747bc606251b2208a50c81e33f7e065edaa892b2a675d8d6bf8b8e9"
 
@@ -877,6 +885,11 @@ hash = "71995078727b9611c47ada960fe05bcf49e53f6f4e1dfcc19bf7dd5ae7a7bfba"
 metafile = true
 
 [[files]]
+file = "mods/cake-chomps.pw.toml"
+hash = "a6dd7c4d9101f127c0a0b5ce1154dcf8d28cc6822d35b62c0be3c052852b8e92"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -1072,6 +1085,11 @@ hash = "43d3863f5222da539c5063b04ad0a26451d7c0f2facdc3bec7d0769711bcd332"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
 metafile = true
@@ -1199,6 +1217,11 @@ metafile = true
 [[files]]
 file = "mods/first-join-message.pw.toml"
 hash = "e4f2ed8651a1fd63de48bdcbe674b72365a7e3f88c1ce98b9de638b0daea18c7"
+metafile = true
+
+[[files]]
+file = "mods/fishing-ruler.pw.toml"
+hash = "00783737731d69e65cd18ad209cf72a61db411d7ea8e4ffaae30393334c9eb44"
 metafile = true
 
 [[files]]
@@ -1447,6 +1470,11 @@ hash = "696ea2237f9a4aa10af435874d7ef548f69e4bf418690ab68423dc8ccc38a72c"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -1559,6 +1587,11 @@ metafile = true
 [[files]]
 file = "mods/plagues-chat-timestamps.pw.toml"
 hash = "b8410ad69dde0cbe45ee2fdee96b0073e40b2626a682c64ce88f1840f6611c11"
+metafile = true
+
+[[files]]
+file = "mods/powershot.pw.toml"
+hash = "50e53c128caecb11771f69e4519f51c296f67308a738e9b278810fa23bca4283"
 metafile = true
 
 [[files]]
@@ -1677,6 +1710,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
@@ -1684,6 +1722,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "e0abd290de019a8918b8f7f68bdc7a63ed43921082a8f70ef6cba99bf3582784"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "4662dcd6aade6b4e055d072e56dbc21062c2d8b6a8a490852dab9e9b9767aebe"
 metafile = true
 
 [[files]]

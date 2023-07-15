@@ -9,11 +9,14 @@ useItemFrameLOD = true
 itemFrameLODRange = 384
 useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 12.0
-leavesCullingMode = "STATE"
+leavesCullingMode = "FAST"
 leavesCullingAmount = 2
 includeMangroveRoots = false
 powderSnowCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+universal_ores = true
+bedspreads = true
+puddles = true
 minecraft = true

@@ -1,0 +1,13 @@
+name = "Fishing Ruler"
+filename = "fishing_ruler-1.0.1-mc1.19+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2g6vOSXZ/versions/MfYeoZyD/fishing_ruler-1.0.1-mc1.19%2B.jar"
+hash-format = "sha1"
+hash = "d4a7cc57dba60e8f5b02ba256018683d9434d883"
+
+[update]
+[update.modrinth]
+mod-id = "2g6vOSXZ"
+version = "MfYeoZyD"
