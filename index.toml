@@ -1185,6 +1185,11 @@ hash = "efcab560c2121ab04e0789e87e9471871db767b59e7c38212a704ac352dcfa2a"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
@@ -1365,11 +1370,6 @@ hash = "94e7f92d2fd5f41e9092466413a7c04ee4f514082fc389fad0bf5603b06287db"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
@@ -1480,6 +1480,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -1547,11 +1552,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
 
 [[files]]
