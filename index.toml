@@ -920,11 +920,6 @@ hash = "175bcd67194cf6c6dbe709fd893bf52a884fb735294b019b60829b8a9430e904"
 metafile = true
 
 [[files]]
-file = "mods/configured-fabric.pw.toml"
-hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
@@ -1106,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "c97ac6ec3937a70ee8b4fd2e1c9926c7ca7c8e980a5b0ba5a07a10484be07686"
 metafile = true
 
 [[files]]
@@ -1167,6 +1162,11 @@ metafile = true
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "02e1a89bf8be8689e70b8a60fce61a245ec440dbe2d17c20fc7e22aaa24dc6cc"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
 metafile = true
 
 [[files]]
@@ -1525,11 +1525,6 @@ hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
 metafile = true
 
 [[files]]
-file = "mods/public-gui-announcement.pw.toml"
-hash = "37c1966ce07ca0b30afe8879353658c96bb714e214f3051b836942d1e0290c67"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
 metafile = true
@@ -1592,11 +1587,6 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
-metafile = true
-
-[[files]]
-file = "mods/slimyfloor.pw.toml"
-hash = "115699c5e1f8dda6ceda7fe18752fd21eade6505918f1faf448758f1865058d5"
 metafile = true
 
 [[files]]
