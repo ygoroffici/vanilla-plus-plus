@@ -950,6 +950,11 @@ hash = "8e66c75eddc39f7ee6b4bc35b722b825a3f6bb34f2e42fa4b55b15b18dbd3b71"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
 file = "mods/creative-block-replacer.pw.toml"
 hash = "9552d05f89df330143cb83cce8c804163a13dd318e062d30dbe33802824e4b6d"
 metafile = true
@@ -967,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/csearcher.pw.toml"
 hash = "d05f1fd775f430f93254d12b2855602f179b4c3ee60db4532ad9c64aa48436ba"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "10a6735b79a84353f1620b561ea9fd584140b9a32e084172e74d383875eefa39"
 metafile = true
 
 [[files]]
