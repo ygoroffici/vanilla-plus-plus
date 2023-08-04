@@ -900,11 +900,6 @@ hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
 metafile = true
 
 [[files]]
-file = "mods/colorful-subtitles.pw.toml"
-hash = "03b5eb0f55147afddae6ed081ca8457d6f847d57d6dbcf568207f658a26605fc"
-metafile = true
-
-[[files]]
 file = "mods/colorfulanvils.pw.toml"
 hash = "146b4c995c24a9fd3d969eb8feec84a52a9c09a70a804f81d2b180ebffad3f00"
 metafile = true
@@ -1057,11 +1052,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
-metafile = true
-
-[[files]]
-file = "mods/emojiful.pw.toml"
-hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
 metafile = true
 
 [[files]]
@@ -1777,6 +1767,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "7bffd317f192278d80114e87ce9694e9753aa95f502802cba0d0c1dad242dfcc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kosmolots-colored-subtitles.pw.toml"
+hash = "3131e149ea6044c3adb72b89cdffd9c603eeb5f1d3c431c9a345a7d386084c0b"
 metafile = true
 
 [[files]]
