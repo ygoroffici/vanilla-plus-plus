@@ -1,13 +1,13 @@
 name = "Labelling Containers"
-filename = "labellingcontainers-1.1.5.jar"
+filename = "labellingcontainers-1.2.4-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b2T42hfY/versions/6NTv4ZzW/labellingcontainers-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/b2T42hfY/versions/mI0xsiVL/labellingcontainers-1.2.4-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "342cfb9a90d274a8d8bcc0839fc2e4dc1c6c2db7"
+hash = "842e743d6ff298de34e56e18eaa6b68ec5f2547b"
 
 [update]
 [update.modrinth]
 mod-id = "b2T42hfY"
-version = "6NTv4ZzW"
+version = "mI0xsiVL"

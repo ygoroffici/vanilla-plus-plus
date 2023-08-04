@@ -1,13 +1,13 @@
 name = "Hoe Tweaks"
-filename = "hoetweaks-1.19.2-3.2.jar"
+filename = "hoetweaks-1.20.1-3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9vlChzlU/versions/Awe2QQ95/hoetweaks-1.19.2-3.2.jar"
+url = "https://cdn.modrinth.com/data/9vlChzlU/versions/vEDxqw43/hoetweaks-1.20.1-3.2.jar"
 hash-format = "sha1"
-hash = "b9c5541cbe19127403de3a38f18685485cc51373"
+hash = "66ef1d80da3c808f68b06953aa94ea62fac745ce"
 
 [update]
 [update.modrinth]
 mod-id = "9vlChzlU"
-version = "Awe2QQ95"
+version = "vEDxqw43"

@@ -1,3 +1,2 @@
-# Vanilla++ 1.19.2 Fabric
-Personal modpack for friends.
-Using packwiz to build it and packwiz-installer to use it!
+# Vanilla++ ~~1.19.2~~ 1.20.1 Fabric!
+An attempt to update Vanilla++ for 1.20.1, as the mods update. Work In Progress!!

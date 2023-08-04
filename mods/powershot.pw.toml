@@ -1,13 +1,13 @@
 name = "Powershot"
-filename = "powershot-1.4.0-1.19-fabric.jar"
+filename = "powershot-1.4.0-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O87oaOPs/versions/1.4.0-1.19-fabric/powershot-1.4.0-1.19-fabric.jar"
+url = "https://cdn.modrinth.com/data/O87oaOPs/versions/2K1wJqqc/powershot-1.4.0-1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "1a181fde43bc6217d80dd7da38915c3c3c33320a"
+hash = "c8d94a5ce3d732d2f0f1d75510af549b1e35b96e"
 
 [update]
 [update.modrinth]
 mod-id = "O87oaOPs"
-version = "17GC7TPn"
+version = "2K1wJqqc"

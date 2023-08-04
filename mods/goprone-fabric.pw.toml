@@ -1,13 +1,13 @@
 name = "GoProne (Fabric)"
-filename = "GoProne-Fabric-2.0.2.jar"
+filename = "GoProne-fabric-1.20.1-3.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c37b859bf45a822a81e687aa14097a5dc77c322c"
+hash = "e991cc502fe56ccd188e50f989f1e7fdbbae4cd4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4104104
+file-id = 4666874
 project-id = 520860

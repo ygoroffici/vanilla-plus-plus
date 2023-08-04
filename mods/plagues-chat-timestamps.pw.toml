@@ -1,13 +1,13 @@
 name = "Plague's Chat Timestamps"
-filename = "plagues-chat-timestamps-1.0.1+1.19.x.jar"
+filename = "plagues-chat-timestamps-1.0.2+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ta2tOIjQ/versions/1TzGdZ2F/plagues-chat-timestamps-1.0.1%2B1.19.x.jar"
+url = "https://cdn.modrinth.com/data/ta2tOIjQ/versions/STKaifG5/plagues-chat-timestamps-1.0.2%2B1.20.jar"
 hash-format = "sha1"
-hash = "b06ecd0cb4799d8d1d0e8e7a15b72480e227996b"
+hash = "174e2281934406b4c00860a7c027d719197f1238"
 
 [update]
 [update.modrinth]
 mod-id = "ta2tOIjQ"
-version = "1TzGdZ2F"
+version = "STKaifG5"
