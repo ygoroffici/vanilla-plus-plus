@@ -1,0 +1,13 @@
+name = "Steppy"
+filename = "steppy-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2ljaWrq/versions/L8dL8LSx/steppy-1.20-1.0.1.jar"
+hash-format = "sha1"
+hash = "92465d754d43c114a0161e1c40dc168f65a2fb31"
+
+[update]
+[update.modrinth]
+mod-id = "i2ljaWrq"
+version = "L8dL8LSx"
