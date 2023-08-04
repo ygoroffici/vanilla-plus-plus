@@ -1190,11 +1190,6 @@ hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
 
 [[files]]
-file = "mods/goprone-fabric.pw.toml"
-hash = "888d57e3fe0cf788648c4972f635f285a8bb28c5594cae95c395d0f247a1ffd4"
-metafile = true
-
-[[files]]
 file = "mods/grabby-mobs.pw.toml"
 hash = "de9e549e4793ca9aec03bd04509fc9277d270ed394d4dfed058d5c423655d048"
 metafile = true
