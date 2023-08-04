@@ -1450,11 +1450,6 @@ hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
