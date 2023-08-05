@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","itemswapper/default","file/EBE_v1.1_1.19.x.zip","continuity/default","minecraft/supporteatinganimation","resources/simplehats_hatdl.zip","bedrockwaters/resources","file/xali\u0027s Potions v1.0.zip","file/BannerPatternClarity-1.19.3c.zip","file/BvBOverlaysV5.zip","charmonium/journeyman"]
+resourcePacks:["vanilla","Fabric Mods","itemswapper/default","file/EBE_v1.1_1.19.x.zip","continuity/default","minecraft/supporteatinganimation","resources/simplehats_hatdl.zip","file/Kosmolot\u0027s Colored Subtitles 1.19.2+20230506.zip","bedrockwaters/resources","file/xali\u0027s Potions v1.0.zip","file/BannerPatternClarity-1.19.3c.zip","file/BvBOverlaysV5.zip","charmonium/journeyman"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

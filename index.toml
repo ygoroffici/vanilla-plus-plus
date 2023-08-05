@@ -722,7 +722,7 @@ hash = "99b1c8f319eb5382f07ef994e23c37d4fbbfaacf3d94e941c19258c3d4f3a4f9"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c303fde34af280bc224612e0ac4448ccf9bd99c6cb25a4829a54d7fe11499e3b"
+hash = "23e31da0bddf4c6070683daaf3b65bb0eed3807eb583a7cfa558749607e3280e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -952,11 +952,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a58f62babbd51c3ecc14d4aafc2617640c78ecd0428f3b09d6e62857a99b876a"
-metafile = true
-
-[[files]]
-file = "mods/colorful-subtitles.pw.toml"
-hash = "03b5eb0f55147afddae6ed081ca8457d6f847d57d6dbcf568207f658a26605fc"
 metafile = true
 
 [[files]]
@@ -1290,8 +1285,8 @@ hash = "f05925ab4aa6396a486bf737381bb502a411d7611b84af9bac8c8877ca76415c"
 metafile = true
 
 [[files]]
-file = "mods/held-item-info.pw.toml"
-hash = "7db3de41ad0cd2c6f791ae3ce784a4f2a9e03e429646fc56498b6393d0a9b212"
+file = "mods/held-item-tooltips.pw.toml"
+hash = "bfbd775c9eb8b310cc09bd40d15c7af33633574cdc99bed7390a8181800577a4"
 metafile = true
 
 [[files]]
@@ -1887,6 +1882,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "fb3bb63b4bd63fb78b0843a0b067f171b03db137c87bc689e9c14038b371ff6c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/kosmolots-colored-subtitles.pw.toml"
+hash = "92eae45dc9198c277a08de17f88d9d589e0980f4f439b186542a2a7d7bd2742b"
 metafile = true
 
 [[files]]

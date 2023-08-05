@@ -1,0 +1,13 @@
+name = "Kosmolot's Colored Subtitles"
+filename = "Kosmolot's Colored Subtitles 1.19.2+20230506.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nfhOGVpw/versions/LTVEjZ8E/Kosmolot%27s%20Colored%20Subtitles%201.19.2%2B20230506.zip"
+hash-format = "sha1"
+hash = "e1213266d79dd467bf1713a2902e8b5fa9fd63d7"
+
+[update]
+[update.modrinth]
+mod-id = "nfhOGVpw"
+version = "LTVEjZ8E"
