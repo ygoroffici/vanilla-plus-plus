@@ -1,0 +1,13 @@
+name = "MysticMons"
+filename = "MysticMons_v1.7.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TiFXQSAQ/versions/pjG8LWUG/MysticMons_v1.7.zip"
+hash-format = "sha1"
+hash = "8533d636c3003fc82b4dbfd735ef2bbe89834392"
+
+[update]
+[update.modrinth]
+mod-id = "TiFXQSAQ"
+version = "pjG8LWUG"

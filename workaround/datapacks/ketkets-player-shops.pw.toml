@@ -1,0 +1,13 @@
+name = "Player Shops"
+filename = "ketkets player shops v0.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8MbhC0mp/versions/r90WTEjC/ketkets%20player%20shops%20v0.5.zip"
+hash-format = "sha1"
+hash = "af3d75daa29c10a5020f93667269ce0d7b5d22e9"
+
+[update]
+[update.modrinth]
+mod-id = "8MbhC0mp"
+version = "r90WTEjC"

@@ -1,0 +1,13 @@
+name = "Item Balls"
+filename = "Item Balls v1.1 [1.20.1-v1.4+].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JRkIK5qA/versions/K4kdWufu/Item%20Balls%20v1.1%20%5B1.20.1-v1.4%2B%5D.zip"
+hash-format = "sha1"
+hash = "3b18b0f54d6147fa12f2e9a5e7c085ccbaf300ab"
+
+[update]
+[update.modrinth]
+mod-id = "JRkIK5qA"
+version = "K4kdWufu"

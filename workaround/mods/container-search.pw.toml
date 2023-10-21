@@ -1,0 +1,13 @@
+name = "Container Search"
+filename = "ContainerSearch-1.0.0-Fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/quToUcuJ/versions/QBEXOllu/ContainerSearch-1.0.0-Fabric-1.20.jar"
+hash-format = "sha1"
+hash = "5516360fddca0b4276bf9b8a959a6f179f5479cb"
+
+[update]
+[update.modrinth]
+mod-id = "quToUcuJ"
+version = "QBEXOllu"

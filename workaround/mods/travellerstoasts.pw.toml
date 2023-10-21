@@ -1,0 +1,13 @@
+name = "TravellersToasts"
+filename = "travellerstoasts-1.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QNMulPkl/versions/bHqJsjkS/travellerstoasts-1.1.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "ab6aab5ca35c586a9d6cd61f145b6e19d46be6d2"
+
+[update]
+[update.modrinth]
+mod-id = "QNMulPkl"
+version = "bHqJsjkS"
